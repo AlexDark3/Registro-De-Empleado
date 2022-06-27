@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jAI/jPlvMssdp9//rqJLid70d1UCOs2PoFVyq3IxSjCyvVBtV2GOt33FsVUXK+5Dp39/T1PZ/CV9ll004FwpHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexa\\Documents\\Desarrollo Web\\Proyecto en C#\\RegistroDeEmpleado\\RegistroDeEmpleado\\RegistroDeEmpleado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexa\\.nuget\\packages\\fontawesome.sharp\\5.15.4\\fontawesome.sharp.5.15.4.nupkg.sha512"
+  ],
+  "logs": []
+}
